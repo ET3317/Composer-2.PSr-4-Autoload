@@ -1,0 +1,14 @@
+{
+    "name": "etiennejouault/php-composer",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Etienne Jouault"
+        }
+    ],
+    "require": {}
+}
